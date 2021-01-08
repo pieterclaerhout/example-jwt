@@ -28,14 +28,6 @@ func login(c echo.Context) error {
 		return echo.ErrUnauthorized
 	}
 
-	// token := jwt.New(jwt.SigningMethodHS256)
-
-	// claims := token.Claims.(jwt.MapClaims)
-	// claims["name"] = "Pieter Claerhout"
-	// claims["uuid"] = "9E98C454-C7AC-4330-B2EF-983765E00547"
-	// claims["admin"] = true
-	// claims["exp"] = time.Now().Add(time.Hour * 72).Unix()
-
 	claims := &jwtCustomClaims{
 		Name:  "Pieter Claerhout",
 		UUID:  "9E98C454-C7AC-4330-B2EF-983765E00547",
