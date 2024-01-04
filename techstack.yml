@@ -1,7 +1,8 @@
 repo_name: pieterclaerhout/example-jwt
 report_id: 52d168e1935ef568a7347c492845d22b
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T11:31:36+00:00'
+timestamp: '2024-01-04T14:52:54+00:00'
 requested_by: pieterclaerhout
 provider: github
 branch: main
@@ -17,6 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/pieterclaerhout/example-jwt
   detection_source: Repo Metadata
 - name: Echo
   description: High performance, extensible, minimalist Go web framework
@@ -27,6 +29,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/4996/9P0MlumU_400x400.jpg
+  detection_source_url: https://github.com/pieterclaerhout/example-jwt/blob/main/go.mod
   detection_source: go.mod
   last_updated_by: Pieter Claerhout
   last_updated_on: 2020-12-25 13:07:29.000000000 Z
@@ -38,6 +41,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/pieterclaerhout/example-jwt
   detection_source: Repo Metadata
 - name: Visual Studio Code
   description: Build and debug modern web and cloud applications, by Microsoft
@@ -48,6 +52,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Text Editor
   image_url: https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png
+  detection_source_url: https://github.com/pieterclaerhout/example-jwt/blob/main/.vscode/tasks.json
   detection_source: ".vscode/tasks.json"
   last_updated_by: Pieter Claerhout
   last_updated_on: 2020-12-25 13:07:29.000000000 Z
