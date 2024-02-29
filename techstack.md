@@ -4,8 +4,8 @@
 pieterclaerhout/example-jwt is built on the following main stack:
 
 - [Golang](http://golang.org/) – Languages
-- [Visual Studio Code](https://code.visualstudio.com/) – Text Editor
 - [Echo](https://echo.labstack.com) – Microframeworks (Backend)
+- [Visual Studio Code](https://code.visualstudio.com/) – Text Editor
 
 Full tech stack [here](/techstack.md)
 
@@ -16,8 +16,8 @@ Full tech stack [here](/techstack.md)
 pieterclaerhout/example-jwt is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png' alt='Visual Studio Code'/> [Visual Studio Code](https://code.visualstudio.com/) – Text Editor
 - <img width='25' height='25' src='https://img.stackshare.io/service/4996/9P0MlumU_400x400.jpg' alt='Echo'/> [Echo](https://echo.labstack.com) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png' alt='Visual Studio Code'/> [Visual Studio Code](https://code.visualstudio.com/) – Text Editor
 
 Full tech stack [here](/techstack.md)
 
@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [pieterclaerhout/example-jwt](https://github.com/pieterclaerhout/example-jwt)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|4<br/>Tools used|01/05/24 <br/>Report generated|
+|4<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
